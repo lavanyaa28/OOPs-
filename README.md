@@ -1,7 +1,7 @@
 # OOPs-
 Personal notes and code for Java OOPs
 
-
+Question
 // difference between abstraction and encapsulation
 Key Differences:
 **Encapsulation**
@@ -18,4 +18,11 @@ Key Differences:
 **Goal**	Simplify usage
 **Exposure**	Exposes essential features, hides details
 **Real-world analogy**		A car's steering system – you don't see the mechanism
+
+
+Question
+How to make attributes of a class read only?
+Answer
+With the use of final keyword
+
 	
